@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="rtb_email_content.Text" xml:space="preserve">
+    <value>Dongyu,
+
+The following is a pathetic attempt at a recreation of the dialog transpired between Paul and myself. For presentation purposes, I will write this out like a play. My team lead will be labeled as "Paul." I will be labeled as "Paul" (to avoid confusion). No, I'm j/k; it will be PI and PL. The dialog is somewhat accurate, but not at all complete. And the order of the topics is most likely wrong, too.
+
+PL: I'm always worried when you ask me to have lunch with you. I always think something bad is happening.
+
+PI: Haha. I just like to talk to you b/c I value your advice. I think of you as a father and respect you very much.
+
+PL: Great.
+
+PI: It was funny b/c when I invited you to lunch, you asked me if everything is OK. Everything is OK and that's the problem: things are going very well w/ Dongyu. I'm at a point where I'm confident about my feelings: I feel very strongly about her and feel very comfortable with marrying her and living with her. With my ex, for example, whenever I considered marriage it felt forced. It never felt right. With Dongyu, everything seems so natural and right. My only reservation is what other people would think in terms of the timing. I think people would judge us for getting married too quickly. We only started dating in late February. If I start telling my friends, family and coworkers that I'm getting married they may think I'm making a bad decision b/c I'm young and it's happening very quickly.
+
+PL: I think the timing is fine. It's good that you think the transition into marriage is natural. Having more time would be good just to let things settle more. Did you find out how old she is?
+
+PI: She's 33.
+
+PL: Oh, good.
+
+PI: I would like to have more time. I'm already confident about my feelings, but it would be nice to just spend more time with her. I was hoping to travel with her before getting married, too.
+
+PL: You should observe her mother: the mother is a good indicator of what the daughter will be like at that age, both physically &amp; personality-wise. Did you meet her father?
+
+PI: I get the impression that her father would not have a strong opinion one way or the other. I wanted to travel to China and meet him, regardless, but Dongyu's vacation days are limited. We had a discussion recently where she mentioned that, in her culture, introducing me to her mother as a romantic interest means that we are going to get married very soon. They don't have the concept of "boyfriend" or "dating", per se. Also, Dongyu has a concern that, b/c of her age, she needs to make babies soon or she would have missed her baby-making window.
+
+PL: Yeah, that's a difficult situation. I wish you did not have to make this big decision under a time crunch. It seems like you have 2 options: either break-up or go ahead and get married very soon. Did you hear the phrase "Damn the torpedoes - full speed ahead?" You may need to just go full speed ahead. I realized that by "torpedoes" they really me "mines." It doesn't make sense to go full speed ahead when you have torpedoes firing at you (he digresses for about 20 minutes). With any engineering problem, I always say that you have 3 options, but I can only think of those 2.
+
+PI: There is a third option. I could give it more time, and Dongyu told me she was OK with that, but she said that she would be sad. If we went this route, then whenever we spend time together, this would always be hanging over our heads anyway. So I don't like the third option.
+
+PL: That makes sense. Well, given your feelings for each other, I think approaching marriage at this point is reasonable. It sounds like you need to find out if you two are right for each other in a very short time. You need to be careful: the first 3 months of a relationship is typically referred to as the "honey moon" period. Marriages that happen only b/c of the honey moon period don't last very long. After this period is over, couples realize that they don't really feel that strongly for each other. When the relationship starts, there's a big flame. The flame always dies out after the honey moon period. A strong relationship will have heat left over, even when the flame goes out (he makes an analogy to coal on an outdoor grill... or something like that.. it was very complicated). It seems like these complications are arising b/c you two are now leaving the honey moon period, which is good. You are getting grounded into reality. A study done a while ago found that one way to determine if a couple will stay together for a long time is how well they handle stress. If both couples can work together to overcome challenges, that's a good sign. You might also consider counseling before marriage. They can ask you questions about your relationship that you may have never thought of before. Also, you need to find out how much time she's expecting to take after marriage to have kids. With kids, you can't travel very easily. You may want to travel before having kids. Child birth only gets more difficult as you're older. The first child is difficult and then subsequent children become easier. Karen (his wife) was sick all the time during pregnancy. Some woman feel great during pregnancy and can't wait to get pregnant again. It depends on the person. And it helps if you can discuss things about children before having them, like if you would circumcise the child if it's a boy. There's a good book you should read (he emailed me a link later). You two should read to each other out loud. It's a very intimate thing to do together. Physical intimacy is important, too. A strong sex life sustains a marriage (I'm serious - I'm not just making that part up for my own benefit).
+
+PI: Thank you for your advice, Paul!
+
+That was the bulk of it, I think. The mongey joined us in the middle, and we discussed poops. But I left that part out. See you at work! 
+
+Love,
+Paul
+</value>
+  </data>
+</root>
